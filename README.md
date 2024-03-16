@@ -1,0 +1,3 @@
+# Autoencoder-implementation
+
+ <sub>I am using the dataset of  [Credit Card Fraud Detection] (https://www.kaggle.com/mlg-ulb/creditcardfraud) by ULB machine learning group. I will build an autoencoder model to distinguish non-fraudulent cases. The model aims to capture the optimal representation of non-fraudulent cases. It will also be utilized to generate representations of fraudulent cases, which are anticipated to differ from non-fraudulent ones.</sub>
